@@ -1,0 +1,15 @@
+
+
+
+James, Henry_The Madonna of the Future 	-->	 Dickens, Charles
+Dickens, Charles_A Child's Dream of a Star 	-->	 Twain, Mark
+Dickens, Charles_Doctor Marigold 	-->	 Twain, Mark
+
+100 MFW , culled @ 0%,  60 of 63	(95.2%)
+
+General attributive success:  60 of 63 (95.2%)
+
+MFWs from 100 to 100 @ increment 100
+Culling from 0 to 0 @ increment 20
+Pronouns deleted: FALSE
+
